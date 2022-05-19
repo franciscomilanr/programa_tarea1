@@ -8,8 +8,12 @@
  <li><b>Ciclo:</b> 01/2022</li>
  <br>
  <li><b> En este programa se muestra el uso de: </b></li>
- <li> Entradas y salidas </li>
- <li> Calculos </li>
+ <ul>
+ <li> Entradas de datos con scanf</li>
+ <li> Salida de datos con printf</li>
+ <li> Calculos de areas </li>
+ <li> Calculos de conversion </li>
+ </ul>
 <br>
  <li> <b> Objetivo: </b> Crear un programa en C que calcule el area del rombo, triangulo y conversion de °c a °f. </li>
  <br>
