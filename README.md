@@ -9,3 +9,5 @@
  <li>Ciclo: 01/2022</li>
 
 <li>Descripción: Programa en C que es la tarea 1 el cual calcula el area del rombo para la materia programacion estructurada.  </li>
+ <li>Descripcion: Programa 2 en C de la tarea 1 que pide datos de un triangulo y calcula el area para la materia programacion estructurada.</li>
+ 
